@@ -1,2 +1,2 @@
-# starry-night-skoolie_web
+# Starry Night Skoolie - Website
  Website for the Starry Night Skoolie.
